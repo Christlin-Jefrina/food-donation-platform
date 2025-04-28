@@ -1,1 +1,3 @@
-
+terminal commands
+docker build -t linear-regression-model .
+docker run -v ${PWD}:/model linear-regression-model
