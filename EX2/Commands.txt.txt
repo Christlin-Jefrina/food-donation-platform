@@ -1,0 +1,25 @@
+git --version
+
+git config --global user.name "Christlin"
+git config --global user.email "christlin@karunya.edu"
+
+git clone https://github.com/your-username/your-repo-name.git
+
+cd your-repo-name
+
+echo "Hello GitHub" > myfile.txt
+
+git add .
+git commit -m "Added myfile.txt with Hello GitHub"
+
+
+git remote add origin https://github.com/your-username/your-repo-name.git
+
+git remote -v
+
+git push -u origin master
+
+git push -u origin main
+
+git pull origin main
+
