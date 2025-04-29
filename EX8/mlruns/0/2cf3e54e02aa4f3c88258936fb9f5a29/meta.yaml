@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chris/Desktop/MLOPS%20LAB%20PRAC/EX8/mlruns/0/2cf3e54e02aa4f3c88258936fb9f5a29/artifacts
+end_time: 1745888970846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cf3e54e02aa4f3c88258936fb9f5a29
+run_name: burly-fowl-81
+run_uuid: 2cf3e54e02aa4f3c88258936fb9f5a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745888948340
+status: 3
+tags: []
+user_id: chris
